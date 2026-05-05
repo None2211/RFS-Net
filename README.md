@@ -1,5 +1,5 @@
-# RFS-Net: Region-Guided-Frequency-Spatial-Transformer-Network-for-Skin-Lesion-Segmentation
-This repository contains the implementation of our paper "RFS-Net: Region-Guided-Frequency-Spatial-Transformer-Network-for-Skin-Lesion-Segmentation"
+# RFS-Net: Region-Guided Frequency-Spatial Transformer Network for Skin Lesion Segmentation
+This repository contains the implementation of our paper "RFS-Net: Region-Guided Frequency-Spatial Transformer Network for Skin Lesion Segmentation"
 ## Dataset
 You can download the dataset from the official [ISIC](https://challenge.isic-archive.com/data/) website.
 All datasets are organized and used for training, validation, and testing strictly following the official splits.
